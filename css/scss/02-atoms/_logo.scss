@@ -1,0 +1,82 @@
+.logo--css {
+  position: relative;
+  display: inline-block;
+
+  .cercle{
+      position: relative;
+      width:52px;
+      height:52px;
+      background-image: linear-gradient(to bottom, #05AEBF 25%, #2A6E9D 75%);
+      border-radius:50%;
+
+    .cercle2{
+        position:absolute;
+        width:46px;
+        height:46px;
+        background: #0C2047;
+        border-radius:50%;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+    }
+
+    .center{
+        position:absolute;
+        width:33px;
+        height:33px;
+        background-image: linear-gradient(to bottom, #05AEBF 25%, #2A6E9D 75%);
+        border-radius:50%;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+    }
+
+    .texte{
+        position: absolute;
+        color: white;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+    }
+
+    .texte img {
+      display: block;
+    }
+
+    .cicle{
+        position: absolute;
+        height: 53px;
+        width: 55px;
+        background-color: red;
+        border-radius: 50%;
+    }
+  }
+
+
+  .dot{
+      position:absolute;
+      top:2px;
+      left:2px;
+      width:13px;
+      height:13px;
+      background:#0DA0b7;
+      border-radius:50%;
+  }
+
+  .sun{
+      width: 52px;
+      height: 52px;
+      position: absolute;
+      -webkit-animation-iteration-count:infinite;
+      -webkit-animation-timing-function:linear;
+      -webkit-animation-name: orbit;
+      -webkit-animation-duration:10s;
+      top: 0;
+      left: 0;
+  }
+
+  @-webkit-keyframes orbit {
+    from { -webkit-transform:rotate(0deg) }
+    to { -webkit-transform:rotate(360deg) }
+  }
+}

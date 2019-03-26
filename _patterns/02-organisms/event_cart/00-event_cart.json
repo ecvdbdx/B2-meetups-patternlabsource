@@ -1,0 +1,18 @@
+{
+  "loopprochains": [
+    {
+      "h5-content" : "Prochains meet-up? ",
+      "h2-content" : "Retrouvez les prochains meet-up ici : ",
+      "sub" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod jt."
+
+    }
+  ],
+
+  "loopevent_cart1" :"true",
+  "loopevent_cart2" :"true",
+  "loopevent_cart3" :"true",
+
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Voir les anciens Meet-up"    
+}

@@ -1,0 +1,7 @@
+{
+	"loopnav": [{
+		"logo-class" : "logo",
+	  "logo-src" : "../../../images/middle_dot.svg",
+	  "logo-alt" : "Logo middle dot"
+	}]
+}
