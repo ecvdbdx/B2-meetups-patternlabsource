@@ -3,5 +3,8 @@
   "loopiconetwitter" : true,
   "loopiconelink" : true,
   "loopiconeslack" : true,
+  "loopiconeyoutube" :true,
+  "loopiconepaper" :true,
+  "loopiconeshare" :true,
   "loopiconesearch" : true
 }
