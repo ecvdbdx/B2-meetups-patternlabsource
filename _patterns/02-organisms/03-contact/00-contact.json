@@ -1,0 +1,15 @@
+{
+	"loopprochains": [
+		{
+		"h5-content" : "Contact",
+		"h2-content" : "Une question ?",
+    "sub" : "Une réponse sous 24h !"
+
+	}
+],
+
+"loopiconepaper" :true,
+"btn-class" : "",
+"btn-link" : "#",
+"btn-content" : "Envoyer"
+}
