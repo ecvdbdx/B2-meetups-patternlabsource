@@ -1,0 +1,29 @@
+{
+	"loopnav": [
+		{
+		"logo-class" : "logo",
+	  "logo-src" : "../../../images/middle_dot.svg",
+	  "logo-alt" : "Logo Meet-Up"
+		}
+	],
+	"h1-content" : "Design System Meet-up",
+  "h2-content" : "Bordeaux",
+	"sub" : "Le Design Systems meet-up est l’occasion unique de découvrir une façon d’affronter les nouveaux enjeux du design, ainsi que d’échanger avec des experts digitaux autour d’un café."
+}
+{
+  "loopprochains": [
+    {
+      "h5-content" : "Prochains meet-up",
+      "h2-content" : "Retrouvez les prochains meet-up ici :",
+      "sub" : "Assistez à nos événements afin d’aborder les différents aspects du Design Systems"
+    }
+  ],
+
+  "loopevent_cart1" :"true",
+  "loopevent_cart2" :"true",
+  "loopevent_cart3" :"true",
+
+  "btn-class" : "",
+  "btn-link" : "#",
+  "btn-content" : "Voir tous les Meet-up"
+}

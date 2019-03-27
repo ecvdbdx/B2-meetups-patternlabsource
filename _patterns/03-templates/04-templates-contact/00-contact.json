@@ -1,0 +1,12 @@
+{
+	"loopnav": [
+		{
+		"logo-class" : "logo",
+	  "logo-src" : "../../../images/middle_dot.svg",
+	  "logo-alt" : "Logo Meet-Up"
+		}
+	],
+	"h1-content" : "Contact",
+  "h2-content" : "",
+	"sub" : "Bienvenue sur la partie contact du meet-up ! Nous sommes ouverts à toutes recommandations de votre part."
+}
