@@ -1,0 +1,18 @@
+
+{
+	"footer": [
+		{
+			"logo-class" : "logo",
+		  "logo-src" : "../../../images/middle_dot.svg",
+		  "logo-alt" : "Logo middle dot",
+			"sub" : "Copyright © 2019 Meet-Up - Tous droits réservés"
+
+	}
+],
+
+"loopiconefb" : true,
+"loopiconetwitter" : true,
+"loopiconelink" : true,
+"loopiconeslack" : true,
+"loopiconeyoutube" :true,
+}
