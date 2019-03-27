@@ -8,5 +8,20 @@
 	],
 	"h1-content" : "Design System Meet-up",
   "h2-content" : "Bordeaux",
-	"sub" : "Le Design Systems meet-up est l’occasion unique de découvrir une façon d’affronter les nouveaux enjeux du design, ainsi que d’échanger avec des experts digitaux autour d’un café."
+	"sub" : "Le Design Systems meet-up est l’occasion unique de découvrir une façon d’affronter les nouveaux enjeux du design, ainsi que d’échanger avec des experts digitaux autour d’un café.",
+
+	"section1foot": [
+		{
+		"h3-content" : "Vous souhaitez rester en contact ?",
+		"sub" : "De nombreux événements vont être organisés autour du Design Systems. Si vous souhaitez être informé des prochains meet-up, renseignez votre mail ci-dessous.",
+
+	}
+	],
+
+	"input-id" : "",
+	"input-placeholder" : "Votre adresse email",
+
+	"btn-class" : "",
+	"btn-link" : "#",
+	"btn-content" : "Envoyer"
 }
