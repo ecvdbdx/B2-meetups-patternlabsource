@@ -1,0 +1,65 @@
+.propos--contente{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.propos--title{
+
+}
+
+.propos--image{
+ padding-top: 15px;
+ padding-bottom: 15px;
+ text-align: center;
+}
+
+.propos--form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.propos--form h5 {
+  text-transform: uppercase;
+  padding-bottom: 15px;
+}
+
+.propos--form h2 {
+  padding-bottom: 15px;
+}
+
+.propos--form p {
+  width: 815px;
+  font-size: 20px;
+}
+
+.propos--content--title{
+  background: white;
+  padding-top: 48px;
+  width: 866px;
+}
+
+.propos--content--title h2{
+  padding-bottom: 16px;
+}
+
+.propos--title--p{
+  padding-top:30px;
+}
+
+.propos--contente h5{
+  color: $uc--caution
+}
+
+.propos--contente p{
+  color: $uc--grisal
+}
+
+.propos--contente h2{
+  color: $uc--positive
+}
+
+.propos--contente strong{
+  color: $uc--positive
+}

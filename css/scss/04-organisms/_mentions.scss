@@ -8,12 +8,18 @@
 
 .mention--title p {
   padding-top: 16px;
+  color: $uc--grisal ;
 }
 
 .mention--title h2{
   padding-top: 8px;
+  color: $uc--positive;
 }
 
 .mention--title {
   padding-top: 56px;
+}
+
+.mention--title h5 {
+  color: $uc--caution ;
 }
