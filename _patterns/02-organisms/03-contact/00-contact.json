@@ -1,15 +1,30 @@
 {
-	"loopprochains": [
+	"loopLabel": [
 		{
-		"h5-content" : "Contact",
-		"h2-content" : "Une question ?",
-    "sub" : "Une réponse sous 24h !"
+			"label-for" : "",
+			"label-content" : "NOM",
+			"input-id" : "",
+			"input-placeholder" : "Votre nom"
+		},
+		{
+			"label-for" : "",
+			"label-content" : "EMAIL",
+			"input-id" : "",
+			"input-placeholder" : "Votre e-mail"
+		}
+	],
 
-	}
-],
+		"label-for" : "",
+		"label-content" : "VOTRE MESSAGE",
+		"textarea-placeholder" : "Votre message",
 
-"loopiconepaper" :true,
-"btn-class" : "",
-"btn-link" : "#",
-"btn-content" : "Envoyer"
+		"btn-class" : "",
+	  "btn-link" : "#",
+	  "btn-content" : "Envoyer",
+
+		"loopprochains": [{
+  		"h5-content" : "Contact",
+  		"h2-content" : "Une question ?",
+      "sub" : "Une réponse sous 24h !",
+  	}]
 }
