@@ -1,0 +1,12 @@
+{
+	"loopnav": [
+		{
+		"logo-class" : "logo",
+	  "logo-src" : "../../../images/middle_dot.svg",
+	  "logo-alt" : "Logo Meet-Up"
+		}
+	],
+	"h1-content" : "Ressources",
+  "h2-content" : "",
+	"sub" : "Retrouvez sur cette page, toutes les ressources utiles ! Vous pourrez suivre toute l’actualité des Design Systems, et de leurs professionnels."
+}
