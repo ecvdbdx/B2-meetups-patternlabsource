@@ -1,11 +1,11 @@
 {
-  "dropdown_select_class" : "dropdown_select_class",
-  "dropdown_option1_value" : "",
-  "dropdown_option1_content" : "Année",
-  "dropdown_option2_value" : "",
-  "dropdown_option2_content" : "2019",
-  "dropdown_option3_value" : "",
-  "dropdown_option3_content" : "2018",
-  "dropdown_option4_value" : "",
-  "dropdown_option4_content" : "2017"
+  "dropdown__select__class" : "dropdown__select__class",
+  "dropdown__option1__value" : "",
+  "dropdown__option1__content" : "Année",
+  "dropdown__option2__value" : "",
+  "dropdown__option2__content" : "2019",
+  "dropdown__option3__value" : "",
+  "dropdown__option3__content" : "2018",
+  "dropdown__option4__value" : "",
+  "dropdown__option4__content" : "2017"
 }
