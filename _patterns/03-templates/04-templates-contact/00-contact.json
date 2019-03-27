@@ -6,7 +6,37 @@
 	  "logo-alt" : "Logo Meet-Up"
 		}
 	],
-	"h1-content" : "Contact",
+
+	"h1-content" : "Ressources",
   "h2-content" : "",
-	"sub" : "Bienvenue sur la partie contact du meet-up ! Nous sommes ouverts à toutes recommandations de votre part."
+	"sub" : "Retrouvez sur cette page, toutes les ressources utiles ! Vous pourrez suivre toute l’actualité des Design Systems, et de leurs professionnels.",
+
+	"loopLabel": [
+		{
+			"label-for" : "",
+			"label-content" : "NOM",
+			"input-id" : "",
+			"input-placeholder" : "Votre nom"
+		},
+		{
+			"label-for" : "",
+			"label-content" : "EMAIL",
+			"input-id" : "",
+			"input-placeholder" : "Votre e-mail"
+		}
+	],
+
+		"label-for" : "",
+		"label-content" : "VOTRE MESSAGE",
+		"textarea-placeholder" : "Votre message",
+
+		"btn-class" : "",
+	  "btn-link" : "#",
+	  "btn-content" : "Envoyer",
+
+    "loopprochains": [{
+  		"h5-content" : "Contact",
+  		"h2-content" : "Une question ?",
+      "sub" : "Une réponse sous 24h !",
+  	}]
 }
