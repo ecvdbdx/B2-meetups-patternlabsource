@@ -1,6 +1,7 @@
-input {
-  border: 1px solid red;
-  box-sizing: border-box;
+input.field {
+  border: 1px solid #C4C4C4;
   border-radius: 3px;
-  background-color: red;
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
 }
