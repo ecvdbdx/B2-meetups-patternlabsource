@@ -1,19 +1,32 @@
-<div class="contact--block--1">
-  {{>molecules-prochains}}
-</div>
 
-<div class="contact--block--2">
-  <p> <strong>Ne soyez pas timide</strong> </p>
-  <p>Questions, commentaires, demandes ? L’équipe Design Systems Meet-up est à votre entière disposition. Alors renseignez votre nom, votre adresse mail et c’est parti...</p>
-  {{>atoms-icone--paper}}
-</div>
+<div class="contact--contente">
 
-<div class="contact--block--3">
-  <p>Nom</p>
-  {{>atoms-input}}
-  <p>Email</p>
-  {{>atoms-input}}
-  <p>votre message</p>
-  {{>atoms-textarea}}
-  {{>atoms-button--primary}}
+  <div class="contact--title">
+    {{>molecules-prochains}}
+  </div>
+
+  <div class="contact--form">
+
+    <div class="contact--form--text">
+      <h2> Ne soyez pas timide</h2>
+      <p>Questions, commentaires, demandes ? L’équipe Design Systems Meet-up est à votre entière disposition. <br> Alors renseignez votre nom, votre adresse mail et c’est parti...</p>
+      {{>atoms-icone--paper}}
+    </div>
+
+    <div class="contact--form--form">
+      <div class="contact--form--form--text">
+        <p>Nom</p>
+        {{>atoms-input}}
+        <p>Email</p>
+        {{>atoms-input}}
+        <p>votre message</p>
+        {{>atoms-textarea}}
+      </div>
+      {{>atoms-button--primary}}
+    </div>
+
+  </div>
+
+
+
 </div>
