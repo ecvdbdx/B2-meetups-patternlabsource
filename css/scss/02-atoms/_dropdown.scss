@@ -35,10 +35,11 @@
   display: block;
 }
 
-.dropdown__content a:hover {
-  background-color: #f9f9f9;
+    &:hover {
+      background-color: #f9f9f9;
+    }
+  }
 }
-
 
 .dropdown__select__class:hover .dropdown__content {
   visibility: visible;

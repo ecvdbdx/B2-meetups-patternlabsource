@@ -3,14 +3,14 @@
 }
 
 .btn--primary {
-  background-color: $uc--warning;
-  border: 1px solid $uc--warning;
+  background-color: $uc--blue;
+  border: 1px solid $uc--blue;
   padding: 8px 16px;
   border-radius: 4px;
-  color: $nc--00;
+  color: $uc--caution;
   transition: $tr--s;
   &:hover {
     background-color: $uc--caution;
-    color: white;
+    color: $nc--00;
   }
 }

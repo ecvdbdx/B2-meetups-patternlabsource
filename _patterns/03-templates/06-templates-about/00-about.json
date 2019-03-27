@@ -1,0 +1,12 @@
+{
+	"loopnav": [
+		{
+		"logo-class" : "logo",
+	  "logo-src" : "../../../images/middle_dot.svg",
+	  "logo-alt" : "Logo Meet-Up"
+		}
+	],
+	"h1-content" : "A propos",
+  "h2-content" : "",
+	"sub" : "Qu’est-ce qu’un Design System ? A quoi ça sert ? Retrouvez ici tout ce qu’il faut savoir sur les living style guides."
+}
