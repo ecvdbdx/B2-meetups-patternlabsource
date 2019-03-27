@@ -1,15 +1,15 @@
-.nav__container a {
-  color: white ;
-  text-decoration: none;
-}
-
-.nav__container li {
-  display: inline-block;
-  margin:  5px;
-  padding: 0 15px;
-}
-
 .nav__container{
   display: inline-block;
   vertical-align: top;
+
+  li {
+    display: inline-block;
+    margin:  5px;
+    padding: 0 15px;
+  }
+
+  a {
+    color: white ;
+    text-decoration: none;
+  }
 }
