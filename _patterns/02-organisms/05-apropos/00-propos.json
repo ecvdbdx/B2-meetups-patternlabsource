@@ -1,0 +1,22 @@
+{
+	"loopprochains": [
+		{
+			"h5-content" : "Contact",
+			"h2-content" : "Les Design Systems",
+			"sub"  : "Un design system peut être illustré par une grande bibliothèque d’éléments essentiels à la conception d’un site internet. Il fait le lien entre les designers et les développeurs."
+
+		}
+	],
+
+	"h2-content" : "Que retrouve-t-on dans un Design System ?",
+	"sub" : "Un Design System permet de regrouper l’ensemble des éléments utiles à la conception. Le Design System utilise de nombreux éléments permettant de mener des projets de sites internet/applications de manière efficace. Ainsi, nous y retrouvons des lignes directrices (guidelines) telles que des couleurs/typos, des bibliothèques (library) regroupant les différents éléments pré-créés et prêts à être utilisé sur un site internet (project-ready). Nous pouvons aussi retrouver de l’iconographie, des boutons ou encore des grids.",
+
+	"img-class" : "",
+  "img-src" : "../../../images/image1.jpg",
+  "img-alt" : "Image"
+
+
+
+
+
+}
