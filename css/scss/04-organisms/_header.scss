@@ -1,11 +1,44 @@
 .header{
+  width: 1440px;
+  height: 504px;
   background-color: $uc--positive;
   color: white;
+  padding-left: 172px;
+  padding-top: 32px;
 }
 .header h1{
   color: white;
+  font-size: 48px;
 }
 
 .header h2{
   color: $uc--warning ;
+  font-size: 32px;
+}
+
+.nav__container{
+  padding-left:48px;
+}
+
+.nav__container a:hover{
+  text-decoration: underline;
+}
+
+
+#compte-rendu{
+  padding-left: 53px;
+}
+#apropos{
+  padding-left: 53px;
+}
+#contact{
+  padding-left: 53px;
+}
+#ressources{
+  padding-left: 53px;
+}
+.header p{
+  width: 710px;
+  height: 93px;
+  font-size: 20px;
 }

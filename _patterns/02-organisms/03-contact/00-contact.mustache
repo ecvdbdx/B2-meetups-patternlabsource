@@ -15,12 +15,14 @@
 
     <div class="contact--form--form">
       <div class="contact--form--form--text">
-        <p>Nom</p>
-        {{>atoms-input}}
-        <p>Email</p>
-        {{>atoms-input}}
-        <p>votre message</p>
-        {{>atoms-textarea}}
+
+        {{#loopLabel}}
+          {{>molecules-label-input}}
+        {{/loopLabel}}
+        {{>molecules-label-textarea}}
+
+
+
       </div>
       {{>atoms-button--primary}}
     </div>
